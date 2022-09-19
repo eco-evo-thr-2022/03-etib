@@ -2,7 +2,7 @@
 
 Click the image below to check out the video!
 
-[![etib](https://img.youtube.com/vi/K0VDhkHdMDU/0.jpg)](https://www.youtube.com/watch?v=K0VDhkHdMDU)
+[![etib](https://img.youtube.com/vi/4ZmAaecTpPk/0.jpg)](https://www.youtube.com/watch?v=4ZmAaecTpPk)
 
 References from the video:
 
