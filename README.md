@@ -12,4 +12,3 @@ References from the video:
 - ["Decoloniality and anti-oppressive practices for a more ethical ecology"](https://github.com/eco-evo-thr-2022/resources/blob/main/trisos_2021.pdf)
 - ["Anti-racist interventions"](https://github.com/eco-evo-thr-2022/resources/blob/main/cronin_2021.pdf)
 - [Overcoming rascism in conservation](https://github.com/eco-evo-thr-2022/resources/blob/main/rudd_2021.pdf)
-
